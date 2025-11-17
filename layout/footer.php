@@ -1,8 +1,6 @@
  <footer class="mt-12 pt-6 border-t border-gray-200 text-center">
         <div class="text-sm text-gray-600 space-y-2">
-            <a href="https://www.ismo.ma"><img src="logo.png" alt="Logo OFPPT" class="w-16 h-16 rounded-full border-2 border-gray-300 p-px mx-auto">
-                <p class="font-semibold pt-2">ISMO - Institut Spécialisé dans les Métiers de l'Offshoring - OFPPT</p>
-            </a>
+
             <a href = "https://ousrah.portal-edu.com/cv">
                 <p class="pt-2">&copy; 2025 Rahmouni Oussama - Tous droits réservés.</p>
             </a>

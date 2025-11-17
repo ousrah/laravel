@@ -20,15 +20,6 @@
 </head>
 <body class="antialiased" id="page-top">
 <main class="max-w-5xl mx-auto p-4 sm:p-6 lg:p-8">
-<div class="flex justify-center mb-8">
-    <a href="https://www.ismo.ma" target="_blank" rel="noopener noreferrer" class="inline-flex items-center space-x-4 group transition-transform transform hover:scale-105">
-        <img src="logo.png" alt="Logo OFPPT" class="w-24 h-24 rounded-full border-2 border-gray-300 p-px group-hover:border-blue-500 transition-colors">
-        <div>
-            <p class="font-semibold text-xl text-gray-800 group-hover:text-blue-600 transition-colors">ISMO - Institut Spécialisé dans les Métiers de l'Offshoring</p>
-            <p class="text-sm text-gray-600">OFPPT - Office de la Formation Profesionnelle et de la Promotion du Travail</p>
-        </div>
-    </a>
-</div>
     <!-- En-tête de la page -->
     <div class="flex justify-center my-8">
         <a href = "https://ousrah.portal-edu.com/cv/">
