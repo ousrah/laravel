@@ -336,7 +336,7 @@ php artisan make:controller HomeController
     <span class="token-comment">/**
      * Affiche la page d'accueil.
      */</span>
-    <span class="token-keyword">public</span> <span class="token-keyword">function</span> <span class="token-function">index</span>(): View
+    <span class="token-keyword">public</span> <span class="token-keyword">function</span> <span class="token-function">index</span>()
     {
         <span class="token-comment">// Le contrôleur demande à Laravel de retourner la vue qui se trouve dans</span>
         <span class="token-comment">// resources/views/welcome.blade.php</span>
@@ -356,7 +356,7 @@ php artisan make:controller HomeController
              <div class="code-block-wrapper">
                 <pre class="code-block"><code class="language-php"><span class="token-comment">// Fichier : app/Http/Controllers/HomeController.php</span>
 <span class="token-comment">// ...</span>
-    <span class="token-keyword">public</span> <span class="token-keyword">function</span> <span class="token-function">index</span>(): View
+    <span class="token-keyword">public</span> <span class="token-keyword">function</span> <span class="token-function">index</span>()
     {
         <span class="token-variable">$nom</span> = <span class="token-string">'Oussama'</span>;
         <span class="token-variable">$titre</span> = <span class="token-string">'Bienvenue sur notre application de gestion'</span>;
@@ -378,8 +378,7 @@ php artisan make:controller HomeController
 &lt;!DOCTYPE html>
 &lt;html lang="fr">
 &lt;head>
-    <span class="token-comment">&lt;!-- On utilise la syntaxe Blade {{ ... }} pour afficher la variable. --></span>
-    <span class="token-comment">&lt;!-- Blade protège automatiquement contre les failles XSS. --></span>
+
     &lt;title>{{ $pageTitle }}&lt;/title>
 &lt;/head>
 &lt;body>
