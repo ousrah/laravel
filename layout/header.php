@@ -28,6 +28,8 @@
                 <div>
                     <p class="font-bold text-lg text-gray-800">Par P. Rahmouni Oussama</p>
                     <p class="text-sm text-gray-600">Formateur en Développement Informatique & Data Science, ISMO</p>
+                    <p class="text-sm text-blue-500" style="text-decoration: underline;"><a href = "https://ousrah.portal-edu.com/#cours">Aller au catalogue de tous les cours</a></p>
+               
                 </div>
             </div>
         </a>
